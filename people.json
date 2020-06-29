@@ -1,0 +1,18 @@
+{
+    "date": "SUN, 28june 2020",
+    "people": [
+        {
+            "name": "Ammy",
+            "occupation": "WEB dev",
+            "age": 20,
+            "country": "Nepal"
+        },
+
+        {
+            "name": "Ali",
+            "occupation": "AI/ML dev",
+            "age": 27,
+            "country": "UK"
+        }
+    ]
+}
